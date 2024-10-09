@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI_IoT_SMKN7_e
 ### Pelatihan AI dan IoT bersama TelU.
 Kelompok e (Ambalabu)
@@ -10,5 +9,5 @@ Kelompok e (Ambalabu)
 ### Rais Mujaddid Akbar (Dev-2)
 ### Ryan Ferdiansyah (Manager)
 
+# Extras
 ![Ryo Yamada]("./pics/awokawok.png")
-=======
