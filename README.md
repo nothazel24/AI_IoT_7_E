@@ -6,7 +6,7 @@ Make the Impossible... Possible!
 
 ![RyoYamada](https://github.com/nothazel24/AI_IoT_7_E/blob/master/pics/awokawok.png)
 
-This Markdown File is only a testing purposes only. I've made this because im really REALLY a noob newbie at Git sooo...
+This Markdown File is a testing purposes only. I've made this because im really REALLY a noob newbie at Git sooo...
 
 ![nyan-car](https://github.com/nothazel24/AI_IoT_7_E/blob/dev1-nzd/pictures/nyan-cat.gif)
 
