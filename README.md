@@ -8,6 +8,6 @@ Make the Impossible... Possible!
 
 This Markdown File is only a testing purposes only. I've made this because im really REALLY a noob newbie at Git sooo...
 
-![nyan-car](nyan-cat.gif)
+![nyan-car](https://github.com/nothazel24/AI_IoT_7_E/blob/dev1-nzd/pictures/nyan-cat.gif)
 
 # NYAN CAT IS NOT GAY!!!11!!!!!11
