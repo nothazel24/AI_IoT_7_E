@@ -10,4 +10,6 @@ Kelompok E (Ambalabu)
 ### Ryan Ferdiansyah (Manager)
 
 # Extras
-![RyoYamada](https://github.com/nothazel24/AI_IoT_7_E/blob/master/pics/awokawok.png) 
+![RyoYamada](https://github.com/nothazel24/AI_IoT_7_E/blob/master/pics/awokawok.png?raw=true)
+![elgato](https://github.com/nothazel24/AI_IoT_7_E/blob/master/pics/cat.jpg?raw=true)
+# Wujut asli el admin 😂‼️🙏
